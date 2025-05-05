@@ -1,0 +1,17 @@
+@import url('https://fonts.cdnfonts.com/css/public-pixel');
+
+Text {
+    -fx-text-fill: white;
+    -fx-fill: white;
+    -fx-text-color: #ffffff;
+    -fx-font-size: 18;
+    -fx-font-family: "Public Pixel", sans-serif;
+}
+
+.menu-Text {
+    -fx-text-fill: white;
+    -fx-font-size: 32;
+    -fx-text-color: #ffffff;
+    -fx-fill: white;
+    -fx-font-family: "Public Pixel", sans-serif;
+}
